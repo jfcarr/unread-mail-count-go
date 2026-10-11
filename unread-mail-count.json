@@ -1,0 +1,9 @@
+[
+    {
+        "Name": "Personal",
+        "Server": "imap.example.com:993",
+        "Username": "myaccount@mailserver.com",
+        "PasswordKey": "ENV_VAR_WITH_PASSWORD",
+        "Mailbox": "INBOX"
+    }
+]
